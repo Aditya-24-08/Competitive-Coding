@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+    int k;
+    int y;
+    char ch='a';
+    cin>>k;
+    l:
+    y=(int)sqrt(2*k);
+    if(k==(y*(y+1))/2)
+        y++;
+
+    for(int i=0;i<y;i++)
+        cout<<ch;
+    ch++;
+    k-=y*(y-1)/2;
+    if(k!=0)
+    goto l;
+    return 0;
+}
