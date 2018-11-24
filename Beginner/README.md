@@ -12,3 +12,4 @@ https://www.codechef.com/problems/RAINBOWA
 https://www.codechef.com/problems/SALARY
 https://www.spoj.com/problems/JNEXT/
 https://www.spoj.com/problems/STPAR/
+https://www.spoj.com/problems/ONP/
