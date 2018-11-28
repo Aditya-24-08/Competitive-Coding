@@ -2,7 +2,7 @@
 This repository contains questions and their accepted solutions in competitive coding.
 
 
-Links for problem statement:
+Links for problem statements:
 https://www.codechef.com/problems/CNOTE
 https://www.codechef.com/problems/CSUB    
 https://www.codechef.com/problems/LECANDY 
