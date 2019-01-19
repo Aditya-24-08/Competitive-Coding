@@ -15,3 +15,4 @@ https://www.spoj.com/problems/STPAR/
 https://www.spoj.com/problems/ONP/
 https://www.codechef.com/problems/COMPILER
 https://www.spoj.com/problems/MMASS/
+https://www.spoj.com/problems/HISTOGRA/
